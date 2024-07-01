@@ -1,4 +1,4 @@
-# My-personal-repository
+# About me
 👋 Hi, I’m Jackson Maroon!
 
 🎓 Current Student at Washington and Lee University, pursuing a Bachelor of Science in Biology (Class of 2026). Passionate about integrating AI and data science into consulting and healthcare.
