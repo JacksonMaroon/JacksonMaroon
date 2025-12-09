@@ -1,16 +1,22 @@
-# About me
-👋 Hi, I’m Jackson Maroon!
+# Hey, I'm Jack 👋
 
-🎓 Current Student at Washington and Lee University, pursuing a Bachelor of Science in Biology (Class of 2026). Passionate about integrating AI and data science into consulting and healthcare.
+Strategy consultant and builder interested in how AI reshapes how we work.
 
-🔍 Research Intern at the University of Pennsylvania’s Center for Addiction Policy, where I’m utilizing SQL and Python to analyze clinical data and provide data-driven insights on public health policy.
+**Currently:** Senior at Washington & Lee University studying Business Administration and Data Science.
 
-💼 Strategy Consultant at FlexContent, helping financial consultants optimize their LinkedIn presence with AI-driven content generation tools. Check out my project FlexConsultingContentSuggester.
+**Next up:** Joining [Kearney](https://www.kearney.com/) as a Business Analyst in NYC (Summer 2026).
 
-🌟 Leadership Roles: Vice President of Out in STEM (oSTEM) and Head of the Artificial Intelligence Group at Effective Altruism at Washington and Lee.
+## What I'm into
 
-💡 Skills: SQL, Python (NumPy, Pandas), Excel, PowerPoint, Tableau, R, Stata.
+- Building tools that make AI useful for everyday problems
+- The intersection of consulting, product, and technology
+- AI Research
 
-🏅 Honors: National Merit Scholar, Francis P. Gaines Scholarship recipient.
+## Projects
 
-🌐 Interests: Prediction Markets, Marathon Training, LLM Fine-tuning, Open Water Swimming, Meditation
+- **[FlexContent-Calendar](https://github.com/JacksonMaroon/FlexContent-Calendar)** — AI-powered LinkedIn content generator for financial consultants
+- **[career-product-showcase](https://github.com/JacksonMaroon/career-product-showcase)** — Personal site and portfolio
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacksonmaroon/)
