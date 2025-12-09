@@ -1,4 +1,4 @@
-# Hey, I'm Jack 👋
+# Hey, I'm Jackson 👋
 
 Strategy consultant and builder interested in how AI reshapes how we work.
 
