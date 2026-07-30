@@ -1,22 +1,15 @@
-# Hey, I'm Jackson 👋
+# Jackson Maroon
 
-Strategy consultant and builder interested in how AI reshapes how we work.
+Business Analyst at [Kearney](https://www.kearney.com/) in New York. I work on operations and analytics problems and build practical software outside work.
 
-**Currently:** Senior at Washington & Lee University studying Business Administration and Data Science.
+## Selected projects
 
-**Next up:** Joining [Kearney](https://www.kearney.com/) as a Business Analyst in NYC (Summer 2026).
+- [Table Scout](https://github.com/JacksonMaroon/table-scout): read-only restaurant availability search across Resy and OpenTable
+- [Canary MLX](https://github.com/JacksonMaroon/canary-mlx): local speech recognition and translation on Apple Silicon
+- [NYC Housing Search System](https://jacksonmaroon.com/thoughts/nyc-housing-system): case study on building, operating, and intentionally decommissioning a cloud-based discovery system
+- [Air Inequality Atlas](https://github.com/JacksonMaroon/air-inequality-atlas): county-level analysis combining EPA, CDC, and social vulnerability data
 
-## What I'm into
+## Links
 
-- Building tools that make AI useful for everyday problems
-- The intersection of consulting, product, and technology
-- AI Research
-
-## Projects
-
-- **[FlexContent-Calendar](https://github.com/JacksonMaroon/FlexContent-Calendar)** — AI-powered LinkedIn content generator for financial consultants
-- **[career-product-showcase](https://github.com/JacksonMaroon/career-product-showcase)** — Personal site and portfolio
-
-## Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacksonmaroon/)
+- [Portfolio](https://jacksonmaroon.com)
+- [LinkedIn](https://www.linkedin.com/in/jacksonmaroon/)
